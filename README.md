@@ -37,5 +37,5 @@ Clone into ComfyUI custom_nodes:
 
 ```bash
 cd /path/to/ComfyUI/custom_nodes
-git clone https://github.com/<YOUR_GH_USER>/comfyui-segs-profile.git
+git clone https://github.com/tabisheva/comfyui-segs-profile.git
 
